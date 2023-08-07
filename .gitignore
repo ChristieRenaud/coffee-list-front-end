@@ -33,3 +33,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# private keys
+coffee-project-2fc13-firebase-adminsdk-8fhxk-3be019a0ae.json
